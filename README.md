@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi
 
-<!--
-**parkyejin0817/parkyejin0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img 
+  src="https://github.com/user-attachments/assets/cbc59977-8687-4b6e-a12c-734188c36ab4" 
+  width="728" 
+  height="410"
+/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://img.shields.io/badge/Java-4C956C?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-4C956C?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-7BC47F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+<br/>
+
